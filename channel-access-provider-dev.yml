@@ -1,5 +1,5 @@
   server:
-    port: 8199
+    port: 8299
   spring:
     application:
       name: channel-access-provider
